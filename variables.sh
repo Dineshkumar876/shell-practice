@@ -10,5 +10,3 @@
  sleep 10 &
  echo "PID of last command running in background: $!"
 
- echo "ps -ef |grep sleep"
-
